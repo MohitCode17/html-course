@@ -1,0 +1,40 @@
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 HTML BASICS 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
+Q.1 What is HTML ?
+
+Html is stands for Hyper text markup language, or a tool we use for create a website.
+
+Html = Giving instructions to a computer, like: <h1>Hello World !</h1>
+
+Explanation: I give a instruction to computer to create 'h1' inside 'Hello World !' text.
+Now, lets open a file with google chrome and see the output. There will be a 'Heading'. See How pretty and straight-forward HTML is.
+
+
+👉 Now Let's understand some terminology:-
+
+  ✋ HTML SYNTAX: rules for writing HTML code(like grammer in english).
+
+  1. Elements should have a opening tag and a matching closing tag.
+
+  <opening tag> Some Text </closing tag>
+  E.g: <h1> Hello World ! </h1>
+
+  2. In HTML, extra spaces and newlines are combined into 1 space.
+  <p>                  paragraph of text</p>
+
+  <p>paragraph of text                             </p>
+
+  <p>
+  paragraph of text
+  </p>
+  
+  All 3 examples above will show the same result on the web page
+
+
+  ✋ ATTRIBUTES: Attributes modify how an HTML element behaves.
+
+  Attributes provide additional information about elements· Attributes are always specified in the start tag.
+
+
+
+✋ Validate Your HTML File: https://validator.w3.org
